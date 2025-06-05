@@ -1,6 +1,6 @@
 Персептроны:
 - [Персептрон](https://app.getrecall.ai/share/b17679e5-4708-5320-bd32-becb0c12c495)
-- [Многослойный персептрон](https://app.getrecall.ai/item/64990b36-3d58-4990-9a35-37b9597613ea)
+- [Многослойный персептрон](https://app.getrecall.ai/share/9df82b4e-08ba-56f8-b107-2cf2df9a960c)
 
 Машинное зрение:
 - [Сверточные сети](https://app.getrecall.ai/share/000e5728-c19c-5ca9-b8a0-37ed077e7280)
